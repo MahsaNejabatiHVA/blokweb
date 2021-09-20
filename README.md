@@ -15,7 +15,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Mahsa Nejabati
 
 #### Je startniveau:
-Niveau blauw
+Niveau blauw<img width="337" alt="Schermafbeelding 2021-09-20 om 22 30 16" src="https://user-images.githubusercontent.com/90696286/134071285-715cef91-2c5d-4bf1-aacb-02d2b03b4332.png">
+<img width="340" alt="Schermafbeelding 2021-09-20 om 22 29 10" src="https://user-images.githubusercontent.com/90696286/134071293-dde33e4d-c6ba-416f-af01-27587ea65849.png">
+<img width="339" alt="Schermafbeelding 2021-09-20 om 22 29 20" src="https://user-images.githubusercontent.com/90696286/134071296-62f8ab85-0268-4516-b78c-ad24ea9ae85a.png">
+<img width="337" alt="Schermafbeelding 2021-09-20 om 22 29 32" src="https://user-images.githubusercontent.com/90696286/134071299-fe5efe06-d3f2-4902-aba1-c8c59f76374c.png">
+<img width="338" alt="Schermafbeelding 2021-09-20 om 22 30 26" src="https://user-images.githubusercontent.com/90696286/134071300-4b2a6500-c89f-4904-899e-4d930c3561ea.png">
+
 
 #### Je focus:
 hier je focus (kies uit responsive óf surface plane)
@@ -32,11 +37,12 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://www.dominos.nl/ (Domino's bezorgingssite)
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="<img width="340" alt="Schermafbeelding 2021-09-20 om 22 29 10" src="https://user-images.githubusercontent.com/90696286/134071326-d55dd979-9af6-44c3-8d14-b341a52d3afe.png">
+" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
