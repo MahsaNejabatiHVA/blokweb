@@ -67,11 +67,10 @@ hier de naam van de pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-Het werken met GitHub was voor mij best lastig, na het bekijken van het filmpje in brightspace begrijp ik nu
- hoe ik hiermee moet werken. Deze week ben ik gaan kijken naar een website die ik graag wil namaken, daarom heb
- ik nog geen code.
+Het werken met GitHub was voor mij best lastig, na het bekijken van het filmpje in brightspace heb ik nu een 
+ helder beeld van hoe ik hiermee moet werken. Deze week ben ik gaan kijken naar een website die ik graag wil namaken, 
+ daarom heb ik nog geen code.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
