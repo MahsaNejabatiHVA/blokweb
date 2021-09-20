@@ -3,3 +3,29 @@
   box-sizing:border-box;  
 }
 
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0%;
+}
+
+header{
+  background-color: black;
+  height: 82px;
+}
+
+a img{
+  width: 43%;
+  margin-left: 106px;
+  margin-top: 34px;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 18px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
