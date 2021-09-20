@@ -93,7 +93,7 @@ Bas: Hoe je transitions in css nog spannender kan maken.
       Hoe je je code netjes houd
 
 Janice: Hoe laat ik om de zoveel tijd een image bewegen? 
-        Hoe laat ik iets (bijv. een tekst/a) in en uit zoomen als ik eroverheen hover of aanklik.
+        Hoe laat ik iets (bijv. een tekst/a) in en uit zoomen als ik eroverheen hover of aanklik?
 
 Jesse: Hoe organiseer ik mijn CSS het beste? 
        Waar leer ik meer over responsive design?
@@ -102,7 +102,6 @@ Mahsa: Is het verstandig om eerst je css uit te werken? of is het beter om dit t
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
 
 - Voor bewegende images hebben we de website https://www.sinds1971.nl/cssvoordedames/8-animations.html, goede voorbeelden en handig voor
   eigen website.
