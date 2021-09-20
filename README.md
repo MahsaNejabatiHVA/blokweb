@@ -74,12 +74,6 @@ Het werken met GitHub was voor mij best lastig, na het bekijken van het filmpje 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...   
  
 Bas: Hoe je transitions in css nog spannender kan maken. 
       Hoe je je code netjes houd
@@ -96,10 +90,10 @@ Mahsa: Is het verstandig om eerst je css uit te werken? of is het beter om dit t
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Voor bewegende images hebben we de website https://www.sinds1971.nl/cssvoordedames/8-animations.html, goede voorbeelden en handig voor
+  eigen website.
+- Als advies voor beginners; begin met coderen van de css en voeg de js erna toe, per gedeelte dus niet alles in een keer.
+-  
 
 </details>
 
