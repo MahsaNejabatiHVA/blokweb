@@ -15,12 +15,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Mahsa Nejabati
 
 #### Je startniveau:
-Niveau blauw<img width="337" alt="Schermafbeelding 2021-09-20 om 22 30 16" src="https://user-images.githubusercontent.com/90696286/134071285-715cef91-2c5d-4bf1-aacb-02d2b03b4332.png">
-<img width="340" alt="Schermafbeelding 2021-09-20 om 22 29 10" src="https://user-images.githubusercontent.com/90696286/134071293-dde33e4d-c6ba-416f-af01-27587ea65849.png">
-<img width="339" alt="Schermafbeelding 2021-09-20 om 22 29 20" src="https://user-images.githubusercontent.com/90696286/134071296-62f8ab85-0268-4516-b78c-ad24ea9ae85a.png">
-<img width="337" alt="Schermafbeelding 2021-09-20 om 22 29 32" src="https://user-images.githubusercontent.com/90696286/134071299-fe5efe06-d3f2-4902-aba1-c8c59f76374c.png">
-<img width="338" alt="Schermafbeelding 2021-09-20 om 22 30 26" src="https://user-images.githubusercontent.com/90696286/134071300-4b2a6500-c89f-4904-899e-4d930c3561ea.png">
-
+Niveau blauw
 
 #### Je focus:
 hier je focus (kies uit responsive óf surface plane)
@@ -41,12 +36,17 @@ https://www.dominos.nl/ (Domino's bezorgingssite)
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="<img width="340" alt="Schermafbeelding 2021-09-20 om 22 29 10" src="https://user-images.githubusercontent.com/90696286/134071326-d55dd979-9af6-44c3-8d14-b341a52d3afe.png">
-" width="375px" alt="omschrijving van de pagina">
+Startpagina domino's
+ 
+ <img width="340" alt="Schermafbeelding 2021-09-20 om 22 29 10" src="https://user-images.githubusercontent.com/90696286/134071557-96010ac8-89d6-4fe7-be50-c1c64562fa85.png">
+<img width="339" alt="Schermafbeelding 2021-09-20 om 22 29 20" src="https://user-images.githubusercontent.com/90696286/134071569-c516f3ff-32b2-482e-b1b0-6b4d0fd6f4bf.png">
+<img width="337" alt="Schermafbeelding 2021-09-20 om 22 29 32" src="https://user-images.githubusercontent.com/90696286/134071576-05856323-75a1-4ce3-ae0d-89a00b55fd73.png"><img width="338" alt="Schermafbeelding 2021-09-20 om 22 29 57" src="https://user-images.githubusercontent.com/90696286/134071583-0f287715-f7c7-43ce-87c2-bc05fad747c6.png">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Werken bij domino's pagina
+ <img width="337" alt="Schermafbeelding 2021-09-20 om 22 30 16" src="https://user-images.githubusercontent.com/90696286/134071647-d3ec263e-98bf-4dc4-906d-2c<img width="338" alt="Schermafbeelding 2021-09-20 om 22 30 26" src="https://user-images.githubusercontent.com/90696286/134071655-73064199-b350-4adc-b454-1ce3ce5e4b57.png">
+ 
  
 </details>
 
