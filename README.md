@@ -73,7 +73,6 @@ Het werken met GitHub was voor mij best lastig, na het bekijken van het filmpje 
  daarom heb ik nog geen code.
 
 ### Agenda voor meeting
-samen met je groepje opstellen
  
 Bas: Hoe je transitions in css nog spannender kan maken. 
       Hoe je je code netjes houd
@@ -93,7 +92,6 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - Voor bewegende images hebben we de website https://www.sinds1971.nl/cssvoordedames/8-animations.html, goede voorbeelden en handig voor
   eigen website.
 - Als advies voor beginners; begin met coderen van de css en voeg de js erna toe, per gedeelte dus niet alles in een keer.
--  
 
 </details>
 
