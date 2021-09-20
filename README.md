@@ -79,7 +79,18 @@ samen met je groepje opstellen
 | ---            | ---                | ---          | ---              |
 | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
 | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| ...   
+ 
+Bas: Hoe je transitions in css nog spannender kan maken. 
+      Hoe je je code netjes houd
+
+Janice: Hoe laat ik om de zoveel tijd een image bewegen? 
+        Hoe laat ik iets (bijv. een tekst/a) in en uit zoomen als ik eroverheen hover of aanklik.
+
+Jesse: Hoe organiseer ik mijn CSS het beste? 
+       Waar leer ik meer over responsive design?
+ 
+Mahsa: Is het verstandig om eerst je css uit te werken? of is het beter om dit te combineren met je js?
 
 
 ### Verslag van meeting
