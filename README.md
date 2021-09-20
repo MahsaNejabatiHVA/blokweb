@@ -47,6 +47,7 @@ Startpagina domino's (Pagina 1)
  <img width="337" alt="Schermafbeelding 2021-09-20 om 22 30 16" src="https://user-images.githubusercontent.com/90696286/134071805-867f6e60-ffef-4bf6-ae86-6e5588fd164c.png">
 <img width="338" alt="Schermafbeelding 2021-09-20 om 22 30 26" src="https://user-images.githubusercontent.com/90696286/134071811-c5a40a4c-76ff-4fc3-9445-73e0dc2ac3f8.png">
 <img width="337" alt="Schermafbeelding 2021-09-20 om 22 30 41" src="https://user-images.githubusercontent.com/90696286/134071814-4823d758-3a3c-4a20-9a4e-4ec219825e5f.png">
+<img width="336" alt="Schermafbeelding 2021-09-20 om 22 35 41" src="https://user-images.githubusercontent.com/90696286/134072068-5e8d7410-6e3b-4467-befc-19077858f34b.png">
 
  
 </details>
