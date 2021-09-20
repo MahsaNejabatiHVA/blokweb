@@ -8,7 +8,7 @@
 Mahsa Nejabati
 
 #### Je startniveau:
-Niveau Blauw
+Niveau blauw
 
 #### Je focus:
 hier je focus (kies uit responsive óf surface plane)
