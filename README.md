@@ -35,18 +35,19 @@ hier je focus (kies uit responsive óf surface plane)
 https://www.dominos.nl/ (Domino's bezorgingssite)
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-Startpagina domino's
+Startpagina domino's (Pagina 1)
  
  <img width="340" alt="Schermafbeelding 2021-09-20 om 22 29 10" src="https://user-images.githubusercontent.com/90696286/134071557-96010ac8-89d6-4fe7-be50-c1c64562fa85.png">
 <img width="339" alt="Schermafbeelding 2021-09-20 om 22 29 20" src="https://user-images.githubusercontent.com/90696286/134071569-c516f3ff-32b2-482e-b1b0-6b4d0fd6f4bf.png">
 <img width="337" alt="Schermafbeelding 2021-09-20 om 22 29 32" src="https://user-images.githubusercontent.com/90696286/134071576-05856323-75a1-4ce3-ae0d-89a00b55fd73.png"><img width="338" alt="Schermafbeelding 2021-09-20 om 22 29 57" src="https://user-images.githubusercontent.com/90696286/134071583-0f287715-f7c7-43ce-87c2-bc05fad747c6.png">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-Werken bij domino's pagina
- <img width="337" alt="Schermafbeelding 2021-09-20 om 22 30 16" src="https://user-images.githubusercontent.com/90696286/134071647-d3ec263e-98bf-4dc4-906d-2c<img width="338" alt="Schermafbeelding 2021-09-20 om 22 30 26" src="https://user-images.githubusercontent.com/90696286/134071655-73064199-b350-4adc-b454-1ce3ce5e4b57.png">
+- Werken bij domino's pagina (pagina 2)
  
+ <img width="337" alt="Schermafbeelding 2021-09-20 om 22 30 16" src="https://user-images.githubusercontent.com/90696286/134071805-867f6e60-ffef-4bf6-ae86-6e5588fd164c.png">
+<img width="338" alt="Schermafbeelding 2021-09-20 om 22 30 26" src="https://user-images.githubusercontent.com/90696286/134071811-c5a40a4c-76ff-4fc3-9445-73e0dc2ac3f8.png">
+<img width="337" alt="Schermafbeelding 2021-09-20 om 22 30 41" src="https://user-images.githubusercontent.com/90696286/134071814-4823d758-3a3c-4a20-9a4e-4ec219825e5f.png">
+
  
 </details>
 
