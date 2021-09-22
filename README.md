@@ -18,7 +18,7 @@ Mahsa Nejabati
 Niveau blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Surface
  
 </details>
 
